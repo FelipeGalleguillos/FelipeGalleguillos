@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felipe Galleguillos
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Front/back end and Java
+- 🌱 I’m currently a Fullstack Developer JAVA Jr.
 - 📫 f.i.galleguillos@gmail.com
 
 <!---

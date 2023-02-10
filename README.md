@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <a href="https://www.instagram.com/phillipg.exe/"><img src="https://img.shields.io/badge/Instagram-fc6484?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
   <a href="mailto:f.i.galleguillos@gmail.com"><img src="https://img.shields.io/badge/Gmail-d43000?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-  <a href="mailto:f.i.galleguillos@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-004ccf?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/felipe-galleguillos-722999263/"><img src="https://img.shields.io/badge/LinkedIn-004ccf?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
 </div>
 
 <hr>
